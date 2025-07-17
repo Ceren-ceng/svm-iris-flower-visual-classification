@@ -1,6 +1,6 @@
 # 🌸 SVM ile Iris Çiçek Türü Sınıflandırma ve Görselleştirme
 
-  Bu projede, **Support Vector Machine (SVM)** algoritmasının makine öğrenmesinde tam olarak **ne işe yaradığını**, parametrelerinin (kernel, C, gamma, degree, margin) pratikte ne fark yarattığını ve Iris veri setinde nasıl kullanıldığını hem kod hem de çıktılar ve grafiklerle gösterilmişti.
+  Bu projede, **Support Vector Machine (SVM)** algoritmasının makine öğrenmesinde tam olarak **ne işe yaradığını**, parametrelerinin (kernel, C, gamma, degree, margin) pratikte ne fark yarattığını ve Iris veri setinde nasıl kullanıldığını hem kod hem de çıktılar ve grafiklerle gösterilmiştir.
 
   ---
 
